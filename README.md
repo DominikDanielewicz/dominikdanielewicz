@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-👋 Hi, my name is Dominik Danielewicz and I’m a front-end developer from Warsaw, Poland
-👀 I’m interested in fishing, travelling and cycling
-🌱 I’m currently learning to code on a fullstack long-term course
-📫 You can reach me at ddanielewicz.dev@gmail.com
+- 👋 Hi, my name is Dominik Danielewicz and I’m a front-end developer from Warsaw, Poland
+- 👀 I’m interested in fishing, travelling and cycling
+- 🌱 I’m currently learning to code on a fullstack long-term course
+- 📫 You can reach me at ddanielewicz.dev@gmail.com
 
-https://www.codewars.com/users/Dominik%20Danielewicz/badges/large
+![Codewars](https://github.r2v.ch/codewars?user=DominikDanielewicz&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=gradient)
 
 <!--
 **DominikDanielewicz/dominikdanielewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
