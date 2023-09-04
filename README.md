@@ -13,8 +13,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" align="left" title="Sass" alt="Sass" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" align="left" title="React" alt="React" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" align="left" title="Redux" alt="Redux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" align="left" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="left" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" align="left" title="Canva" alt="Canva" width="40" height="40"/>
